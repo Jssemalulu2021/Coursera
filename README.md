@@ -1,2 +1,2 @@
-# Coursera
-Introduction to GitHub week 3 lab
+# Secure Messaging System
+Students: Julian Ssemalulu, Rishabh Mishra
